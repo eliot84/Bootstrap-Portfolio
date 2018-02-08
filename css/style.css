@@ -84,3 +84,12 @@ a:hover{
 	float: left;
 
 }
+
+.btn-primary{
+	background-color: #cccccc;
+	border: none;
+}
+.btn-primary:hover{
+	background-color: gray;
+	border: none;
+}
