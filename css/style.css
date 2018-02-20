@@ -76,6 +76,20 @@ a:hover{
 
 }
 
+a.portLinks:link{
+	color: black;
+}
+
+a.portLinks:visited{
+	color: black;
+}
+
+a.portLinks:hover{
+	color: black;
+	    font-weight: bold;
+
+}
+
 .spacer{
 	margin-top: 50px;
 }
@@ -92,4 +106,8 @@ a:hover{
 .btn-primary:hover{
 	background-color: gray;
 	border: none;
+}
+
+.languages{
+	font-size: 10px;
 }
